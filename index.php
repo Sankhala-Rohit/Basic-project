@@ -1,5 +1,5 @@
 <?php 
-echo "hello world";
+echo "hello word";
 for ($i=0; $i < ; $i++) { 
 	# code...
 }
