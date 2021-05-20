@@ -6,5 +6,6 @@ $array=[
 'new'='batch',
 ];
 echo $array;
+echo "Dhanu";
 
  ?>
